@@ -8,13 +8,13 @@ AddToCart is a mobile application that allows users to easily add items to their
 - **Firebase Integration:** Utilize Firebase to store and manage shopping cart data.
 
 ## Screenshots of mobile app
+### ScreenShot 1
+(![WhatsApp Image 2023-12-15 at 14 02 34_c44b2d8b](https://github.com/Yug063/AddToCart/assets/99280006/82e6a5e5-4583-49fd-adb1-3c11c1f665a4)
+### ScreenShot 2
+(![WhatsApp Image 2023-12-15 at 14 02 35_1089295d](https://github.com/Yug063/AddToCart/assets/99280006/616a4287-66ef-4f55-94a7-c4f35e34098a)
+### ScreenShot 3
+(![WhatsApp Image 2023-12-15 at 14 02 35_ee4f9a3c](https://github.com/Yug063/AddToCart/assets/99280006/1f8841d0-c81c-4690-8330-fb3f7124aed8)
 
-![Screenshot 1](![WhatsApp Image 2023-12-15 at 14 02 34_c44b2d8b](https://github.com/Yug063/AddToCart/assets/99280006/82e6a5e5-4583-49fd-adb1-3c11c1f665a4)
-
-![Screenshot 2](![WhatsApp Image 2023-12-15 at 14 02 35_1089295d](https://github.com/Yug063/AddToCart/assets/99280006/616a4287-66ef-4f55-94a7-c4f35e34098a)
-)
-![Screenshot 2](![WhatsApp Image 2023-12-15 at 14 02 35_ee4f9a3c](https://github.com/Yug063/AddToCart/assets/99280006/1f8841d0-c81c-4690-8330-fb3f7124aed8)
-)
 <!-- Add more screenshots as needed -->
 
 ## Demo
